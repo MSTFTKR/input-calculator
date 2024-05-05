@@ -1,0 +1,77 @@
+[
+  {
+    "sayilar": [
+      "5",
+      "8",
+      "9",
+      "7"
+    ],
+    "parametre": "-",
+    "sonuc": -19
+  },
+  {
+    "sayilar": [
+      "4",
+      "7",
+      "9"
+    ],
+    "parametre": "*",
+    "sonuc": 252
+  },
+  {
+    "sayilar": [
+      "-19",
+      "25"
+    ],
+    "parametre": "+",
+    "sonuc": 6
+  },
+  {
+    "sayilar": [
+      "-19",
+      "48"
+    ],
+    "parametre": "+",
+    "sonuc": 29
+  },
+  {
+    "sayilar": [
+      "6"
+    ],
+    "parametre": "!",
+    "sonuc": 720
+  },
+  {
+    "sayilar": [
+      "50",
+      "2"
+    ],
+    "parametre": "/",
+    "sonuc": 25
+  },
+  {
+    "sayilar": [
+      "6",
+      "5"
+    ],
+    "parametre": "*",
+    "sonuc": 30
+  },
+  {
+    "sayilar": [
+      "6",
+      "4"
+    ],
+    "parametre": "*",
+    "sonuc": 24
+  },
+  {
+    "sayilar": [
+      "30",
+      "",
+      "15"
+    ],
+    "parametre": "-",
+    "sonuc": 15
+  }
+]
